@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+  background-image: url('https://mycom.com/wp-content/uploads/2025/07/featured-image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
