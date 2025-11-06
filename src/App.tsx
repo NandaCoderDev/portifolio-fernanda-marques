@@ -8,6 +8,7 @@ import { Contact } from "./pages/Contact";
 function App() {
   return (
     <BrowserRouter>
+    <div className="fixed inset-0 -z-10 bg-[url('https://mycom.com/wp-content/uploads/2025/07/featured-image.png')] bg-cover bg-center"></div>
     <Navbar />
     <Routes>
       <Route path="/" element={<Home />} />
