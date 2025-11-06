@@ -23,7 +23,7 @@ export function Navbar() {
               </a>
             </li>
             <li>
-              <a href="/Fernanda.pdf" download className="hover:text-pink-400">
+              <a href="/Fernanda-Dev.pdf" download className="hover:text-pink-400">
                 Currículo
               </a>
             </li>
