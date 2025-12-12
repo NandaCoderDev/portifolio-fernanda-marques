@@ -22,11 +22,6 @@ export function Navbar() {
                 Contato
               </a>
             </li>
-            <li>
-              <a href="/Curriculo-Fernanda-Marques.pdf" download className="hover:text-pink-400">
-                Currículo
-              </a>
-            </li>
           </ul>
         </div>
       </nav>
